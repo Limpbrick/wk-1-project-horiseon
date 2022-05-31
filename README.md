@@ -1,7 +1,7 @@
 ## Dataset title: wk-1-project-horiseon
 
 ## Screenshot: 
-![alt text](assets%5Cimages%5Climpbrick.github.io_wk-1-project-horiseon_.png)
+![alt text](assets/images/limpbrick.github.io_wk-1-project-horiseon_.png "Horiseon Refactoring Project")
 
 ## Project Description:
 Company page for ©Horiseon Social Solution Services, Inc.
